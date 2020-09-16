@@ -15,4 +15,4 @@
 
 ## Общие рекомендации
 
-Использовать тип хранения данных long для переменных currentInvoice, transfer и long.
+Использовать тип хранения данных long для переменных currentInvoice, transfer и total.
